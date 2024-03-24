@@ -1,14 +1,14 @@
-Mobile Diagnostic Tool
+  **Mobile Diagnostic Tool**
 The Mobile Diagnostic Tool is an Android application designed to provide users with various diagnostic features to analyze and troubleshoot common issues on their mobile devices. This tool offers a range of functionalities to help users know about their hardware and software problems, test device performance, and gather diagnostic information like about the sensors present in their device. Various sensors like accelerometer, gyroscope, light sensor or proximity sensor are diagnosted in this application.
 
-Features
+  **Features**
 Call Logs: View and analyze call logs to track incoming and outgoing calls, call durations, and timestamps.
 Internal and External Memory Test: Perform tests to check the storage capacity and performance of internal and external memory.
 Sensors Testing: Test various sensors such as accelerometer, gyroscope, proximity sensor, and light sensor.
 Telephony Information: Retrieve telephony-related information such as device IMEI, SIM card details, network operator, and phone type.
 SMS Testing: Send test SMS messages to verify SMS functionality.
 
-Getting Started
+  **Getting Started**
 To use the Mobile Diagnostic Tool, follow these steps:
 
 Clone or download the repository to your local machine.
