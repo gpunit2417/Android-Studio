@@ -1,4 +1,4 @@
-  **Mobile Diagnostic Tool**
+  **Mobile Diagnostic Tool**<br/>
 The Mobile Diagnostic Tool is an Android application designed to provide users with various diagnostic features to analyze and troubleshoot common issues on their mobile devices. This tool offers a range of functionalities to help users know about their hardware and software problems, test device performance, and gather diagnostic information like about the sensors present in their device. Various sensors like accelerometer, gyroscope, light sensor or proximity sensor are diagnosted in this application.
 
   **Features**
